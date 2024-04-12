@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './second-app-logo.png';
 import './App.css';
 
 function App() {
@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>This is my second App</h1>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
